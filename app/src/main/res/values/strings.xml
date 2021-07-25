@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StoryAPP</string>
+    <string-array name="title_story">
+        <item>story1</item>
+        <item>story2</item>
+        <item>story3</item>
+        <item>story4</item>
+        <item>story5</item>
+        <item>story6</item>
+    </string-array>
+
+    <string-array name="detail_story">
+        <item>story1</item>
+        <item>story2</item>
+        <item>story3</item>
+        <item>story4</item>
+        <item>story5</item>
+        <item>story6</item>
+
+    </string-array>
+</resources>
